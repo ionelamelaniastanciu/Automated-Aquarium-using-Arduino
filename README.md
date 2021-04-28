@@ -18,9 +18,6 @@ This pump is used to discharge the water
 ## Ultrasonic Sensor
 This sensor is used to measure the level of the water.
 
-## Infrared PIR Motion Sensor Module
-This sensor checks if there is any monition in the aquarim
-
 ## Continuous Rotation Micro Servo - FS90R
 This servomotor is used to feed the fish.
 
